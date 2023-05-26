@@ -17,4 +17,5 @@
   ---
 
 ### :man_technologist: About Me :
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="30"> from India.
 </div>
