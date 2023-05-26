@@ -17,5 +17,5 @@
   ---
 
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkNTczYjBmZDcwMjlkZTNmNmFlY2E3ZTEwZGJjZWZkYjczMzI3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/CEHtFH3rJ6xdhBUKIT/giphy.gif" width="30"> from India.
+  I am a Programmer, Developer, Digital Marketer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Bangladesh.
 </div>
