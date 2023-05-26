@@ -14,7 +14,6 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250px"/><br>
-  ---
 
 ### :man_technologist: About Me
 </div>
@@ -31,7 +30,6 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
   </a>
 <br>
 <div align="center">
----
 
 ### :hammer_and_wrench: Languages and Tools
   </div>
@@ -52,3 +50,8 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<div align="center">
+
+### :fire: My Stats
+  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
