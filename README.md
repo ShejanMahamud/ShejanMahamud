@@ -14,7 +14,8 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250px"/><br>
-  ---
+</div>
+---
 
 ### :man_technologist: About Me :
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">I am a Programmer, Developer, Digital Marketer & Graphic Designer from Bangladesh.<br>
@@ -25,4 +26,3 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-</div>
