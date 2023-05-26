@@ -19,21 +19,20 @@
 </div>
 
 I am a Programmer, Developer, Digital Marketer & Graphic Designer from Bangladesh.<br>
-  - 👨‍💻 I’m working as a Programmer and Developer. Contributing to frontend and backend for building web applications. On other hand, I'm working as Digital Marketer, Graphic Design & Seo Specialist.
+ <br>👨‍💻 I’m working as a Programmer and Developer. Contributing to frontend and backend for building web applications. On other hand, I'm working as Digital Marketer, Graphic Design & Seo Specialist.
 
-- :seedling: Exploring AI & Data Science.
+ :seedling: Exploring AI & Data Science.
 
-- :zap: In my free time, I solve problems on StackOverflow , read tech articles & code.
+ :zap: In my free time, I solve problems on StackOverflow , read tech articles & code.
 
-- :mailbox:How to reach me:  <a href="your-linkedin-URL">
+ :mailbox:How to reach me:  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br>
 <div align="center">
 
 ### :hammer_and_wrench: Languages and Tools
-  </div>
-<div>
+<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,7 +43,7 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"  alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django"  alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -53,5 +52,14 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
 <div align="center">
 
 ### :fire: My Stats
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShejanMahamud&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   </div>
-(https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+<div align="center">
+
+### :writing_hand: Blog Posts
+  <br>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  </div>
