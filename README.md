@@ -56,10 +56,3 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShejanMahamud&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <br>
-<div align="center">
-
-### :writing_hand: Blog Posts
-  <br>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-  </div>
