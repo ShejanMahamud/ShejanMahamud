@@ -14,10 +14,11 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250px"/><br>
-</div>
----
+  ---
 
 ### :man_technologist: About Me :
+</div>
+
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">I am a Programmer, Developer, Digital Marketer & Graphic Designer from Bangladesh.<br>
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
