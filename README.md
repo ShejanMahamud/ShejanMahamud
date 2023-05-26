@@ -16,14 +16,14 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250px"/><br>
   ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 </div>
 
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">I am a Programmer, Developer, Digital Marketer & Graphic Designer from Bangladesh.<br>
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - 👨‍💻 I’m working as a Programmer and Developer. Contributing to frontend and backend for building web applications. On other hand, I'm working as Digital Marketer, Graphic Design & Seo Specialist.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring AI & Data Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on StackOverflow , read tech articles & code.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
