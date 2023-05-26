@@ -17,5 +17,5 @@
   ---
 
 ### :man_technologist: About Me :
-  I am a Programmer, Developer, Digital Marketer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Bangladesh.
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">I am a Programmer, Developer, Digital Marketer from Bangladesh.
 </div>
