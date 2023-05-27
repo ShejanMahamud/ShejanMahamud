@@ -12,7 +12,7 @@
   <a href="https://twitter.com/_ShejanMahamud_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
+  <img src="https://komarev.com/ghpvc/?username=ShejanMahamud&style=flat-square&color=blue" alt=""/><br>
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250px"/><br>
 
 ### :man_technologist: About Me
