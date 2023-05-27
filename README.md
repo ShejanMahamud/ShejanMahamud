@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shejan-mahamud">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://replit.com/@ShejanMahamud1">
     <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/_ShejanMahamud_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/><br>
@@ -25,7 +25,7 @@ I am a Programmer, Developer, Digital Marketer & Graphic Designer from Banglades
 
  :zap: In my free time, I solve problems on StackOverflow , read tech articles & code.
 
- :mailbox:How to reach me:  <a href="your-linkedin-URL">
+ :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/shejan-mahamud">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br>
