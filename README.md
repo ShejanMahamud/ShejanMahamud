@@ -19,9 +19,9 @@
 </div>
 
 I am a Programmer, Developer, Digital Marketer & Graphic Designer from Bangladesh.<br>
- <br>👨‍💻 I’m working as a Programmer and Developer. Contributing to frontend and backend for building web applications. On other hand, I'm working as Digital Marketer, Graphic Design & Seo Specialist.
+ <br>👨‍💻 I’m working as a Programmer and Developer.
 
- :seedling: Exploring AI & Data Science.
+ :seedling: Exploring Different Languages!
 
  :zap: In my free time, I solve problems on StackOverflow , read tech articles & code.
 
