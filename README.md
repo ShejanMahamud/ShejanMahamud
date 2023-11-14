@@ -1,30 +1,17 @@
 <h1 align="center">
   <img src="./name.svg" alt="Shejan Mahamud" />
 </h1>
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=ShejanMahamud">
   <img align="right" src="https://komarev.com/ghpvc/?username=ShejanMahamud&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018bce33-aa2d-4d83-a57c-870ae677e09c.svg)](https://wakatime.com/@018bce33-aa2d-4d83-a57c-870ae677e09c)
+[![wakatime](https://wakatime.com/badge/user/018bceb0-7e1f-4512-b473-85a7cde7655a.svg)](https://wakatime.com/@018bceb0-7e1f-4512-b473-85a7cde7655a)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Shejan Mahamud</a></b>
+                <b><a target="_blank" href="https://shejanmahamud.me">Shejan Mahamud</a></b>
         </samp>
 </h3>
 
@@ -45,9 +32,6 @@
  <a href="https://linkedin.com/in/shejan-mahamud" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shejan Mahamud"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
  <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shejan Mahamud" />
  </a>
