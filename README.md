@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="./name.svg" alt="Shejan Mahamud" />
 </h1>
-
 <!--
 <h2 align="center">
   Welcome to Al Siam World!
@@ -66,12 +65,12 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Programming.gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: mail.shejanmahamud@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/ShejanMahamud/ShejanMahamud/issues)
 
 </p>
 
@@ -137,4 +136,4 @@
   <br/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shejan Mahamud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShejanMahamud&custom_title=Shejan%20Mahamud's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
