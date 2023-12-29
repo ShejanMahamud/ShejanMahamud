@@ -19,7 +19,7 @@
   <samp>
     <a href="https://g.co/kgs/Dnh2mD">「 Google Me 」</a>
     <br>
-    「 I am a programmer & software developer from <b>Bangladesh</b> 」
+    「 Aspiring web developer passionate about MERN stack</b> 」
     <br>
     <br>
   </samp>
