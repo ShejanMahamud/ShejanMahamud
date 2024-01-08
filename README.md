@@ -6,8 +6,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ShejanMahamud&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018bceb0-7e1f-4512-b473-85a7cde7655a.svg)](https://wakatime.com/@018bceb0-7e1f-4512-b473-85a7cde7655a)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -29,18 +27,15 @@
  <a href="https://shejanmahamud.me/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shejan Mahamud" />
  </a>
- <a href="https://linkedin.com/in/shejan-mahamud" target="_blank">
+ <a href="https://linkedin.com/in/md-shejanmahamud" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shejan Mahamud"/>
  </a>
  <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shejan Mahamud" />
  </a>
- <a href="https://instagram.com/shejan_mahamud_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shejan Mahamud" />
+ <a href="https://stackoverflow.com/users/22041725/shejan-mahamud" target="_blank">
+  <img src="https://img.shields.io/badge/STACKOVERFLOW-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Shejan Mahamud" />
  </a> 
- <a href="https://facebook.com/shejanmahamud.music" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shejan Mahamud"  />
-  </a> 
 </p>
 <br />
 
@@ -53,7 +48,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mail.shejanmahamud@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: dev.shejanmahamud@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ShejanMahamud/ShejanMahamud/issues)
 
 </p>
@@ -64,13 +59,13 @@
 
 ## Technologies i know
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+<!--![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) -->
+![TAILWIND CSS](https://img.shields.io/badge/TAILWINDCSS-37B6F1?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<!--![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)-->
+![Linux](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,8 +75,8 @@
 ## Top Open Source -
 
 [![DraftMail Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=DraftMailBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/DraftMailBot)
-[![GRAM AI Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=GRAM-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/GRAM-AI)
-[![NightFallGlow VS CODE Theme](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=NightFallGlow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/NightFallGlow)
+[![HeyLuna AI Front End-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=HeyLuna-AI-Front-End-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/HeyLuna-AI-Front-End-Clone)
+[![MInimal Portfolio Template](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=Minimal-Portfolio-Template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/Minimal-Portfolio-Template)
 [![Portfolio Template](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=Shejan-Mahamud-Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/Shejan-Mahamud-Portfolio)
 
 <p align="left">
