@@ -76,10 +76,7 @@
 
 ## Top Open Source -
 
-[![DraftMail Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=DraftMailBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/DraftMailBot)
-[![HeyLuna AI Front End-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=HeyLuna-AI-Front-End-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/HeyLuna-AI-Front-End-Clone)
-[![MInimal Portfolio Template](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=Minimal-Portfolio-Template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/Minimal-Portfolio-Template)
-[![Portfolio Template](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=Shejan-Mahamud-Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/Shejan-Mahamud-Portfolio)
+[![Al-Quran Web Bangla](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=AL-Quran-Web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/AL-Quran-Web)
 
 <p align="left">
   <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
