@@ -65,7 +65,7 @@
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWINDCSS-37B6F1?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/REACT-37B6F1?style=for-the-badge&logo=react&logoColor=white)
-<!--![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)-->
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
 <!-- ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
