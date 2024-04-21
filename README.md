@@ -9,13 +9,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shejanmahamud.me">Shejan Mahamud</a></b>
+                <b><a target="_blank" href="https://shejanmahamud.netlify.app">Shejan Mahamud</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://g.co/kgs/Dnh2mD">「 Google Me 」</a>
+    <a href="https://shejanmahamud.netlify.app">「 PORTFOLIO 」</a>
+<!--       https://g.co/kgs/Dnh2mD -->
     <br>
     「 Aspiring web developer passionate about MERN stack</b> 」
     <br>
@@ -24,8 +25,8 @@
 </p>
 
 <p align="center">
- <a href="https://shejanmahamud.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shejan Mahamud" />
+ <a href="https://shejanmahamud.medium.com/" target="blank">
+  <img src="https://img.shields.io/badge/BLOGS-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shejan Mahamud" />
  </a>
  <a href="https://linkedin.com/in/md-shejanmahamud" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shejan Mahamud"/>
@@ -66,6 +67,9 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/REACT-37B6F1?style=for-the-badge&logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![expressJS](https://img.shields.io/badge/EXPRESS-3C873A?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODEJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
 <!-- ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
