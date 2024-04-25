@@ -58,6 +58,8 @@
 <br/>
 <br/>
 
+<a href="https://gitroll.io/profile/uOmHw2dh4cShEbuA8eR3byKPRuEs2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOmHw2dh4cShEbuA8eR3byKPRuEs2" alt="GitRoll Profile Badge"/></a> 
+
 ## Technologies i know
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
