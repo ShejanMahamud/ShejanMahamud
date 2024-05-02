@@ -75,9 +75,13 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Linux](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
 <!-- ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+
+## Tools i know
+
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-FD3D39?style=for-the-badge&logo=figma&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br/>
 
