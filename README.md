@@ -87,7 +87,7 @@
 
 ## Top Open Source -
 
-[![Al-Quran Web Bangla](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=AL-Quran-Web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/AL-Quran-Web)
+[![React Awesome Captcha](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=react-awesome-captcha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/react-awesome-captcha)
 
 <p align="left">
   <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
