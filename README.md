@@ -24,9 +24,6 @@ Hello! I’m Shejan Mahamud, a dedicated MERN Stack Web Developer with a strong 
     <a href="https://shejanmahamud.netlify.app">「 PORTFOLIO 」</a>
 <!--       https://g.co/kgs/Dnh2mD -->
     <br>
-    「 Front-End Developer | React.JS | NEXT.JS | MERN</b> 」
-    <br>
-    <br>
   </samp>
 </p>
 
