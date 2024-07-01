@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name.svg" alt="Shejan Mahamud" />
+  <img src="https://i.ibb.co/N3CZJtg/Meet-The-Developer.jpg" alt="Shejan Mahamud" />
 </h1>
 
 <a href="https://komarev.com/ghpvc/?username=ShejanMahamud">
@@ -8,7 +8,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp align='center'>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://shejanmahamud.netlify.app">Shejan Mahamud</a></b>
         </samp>
 </h3>
@@ -18,7 +18,7 @@
     <a href="https://shejanmahamud.netlify.app">「 PORTFOLIO 」</a>
 <!--       https://g.co/kgs/Dnh2mD -->
     <br>
-    「 Aspiring web developer passionate about MERN stack</b> 」
+    「 Front-End Developer | React.JS | NEXT.JS | MERN</b> 」
     <br>
     <br>
   </samp>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shejan Mahamud"/>
  </a>
  <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shejan Mahamud" />
+  <img src="https://img.shields.io/badge/fACEBOOK-1DA1F2?style=for-the-badge&logo=FACEBOOK&logoColor=white" alt="Shejan Mahamud" />
  </a>
  <a href="https://stackoverflow.com/users/22041725/shejan-mahamud" target="_blank">
   <img src="https://img.shields.io/badge/STACKOVERFLOW-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Shejan Mahamud" />
@@ -42,52 +42,65 @@
 
 <!-- About Section -->
 
-# About me
+# 👀 Overview
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Programming.gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: dev.shejanmahamud@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ShejanMahamud/ShejanMahamud/issues)
+ ✌️ &emsp; Enjoy to do programming, sharing knowledge & solving complex problems <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
+ ⚡ &emsp; Passionate about building scalable web applications and improving user experiences <br/><br/>
+ 🚀 &emsp; Skilled in full-stack development with expertise in MongoDB, Express, React, and Node.js <br/><br/>
+ 🔧 &emsp; Adept at using modern development tools and frameworks to streamline the development process <br/><br/>
+ 💬 &emsp; Always open to discussing new projects, creative ideas, or opportunities to be part of your visions<br/><br/>
+</p>
+<br/>
+
+## ⚡ Skills I Possess
+
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
+</a>
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="60" height="60"/> </a>
 
 </p>
 
-<br/>
-<br/>
-<br/>
-
-<a href="https://gitroll.io/profile/uOmHw2dh4cShEbuA8eR3byKPRuEs2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOmHw2dh4cShEbuA8eR3byKPRuEs2" alt="GitRoll Profile Badge"/></a> 
-
-## Technologies i know
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TAILWIND CSS](https://img.shields.io/badge/TAILWINDCSS-37B6F1?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/REACT-37B6F1?style=for-the-badge&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![expressJS](https://img.shields.io/badge/EXPRESS-3C873A?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NODEJS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Linux](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
-<!-- ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
-
-## Tools i know
-
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-FD3D39?style=for-the-badge&logo=figma&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<p align="center">
+<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-original.svg" alt="firebase" width="60" height="60"/> </a>
+<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="node" width="60" height="60"/> </a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="tailwind" width="60" height="60"/></a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="60" height="60"/></a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/>
+</a>
+<a> <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="60" height="60"/>
+</a>
+</p>
 <br/>
 
-## Top Open Source -
+## 🛠️ Tools I Possess
+<p align="center">
+<a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/> </a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/vercel/vercel-original.svg" alt="vercel" width="60" height="60"/></a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/netlify/netlify-original.svg" alt="netlify" width="60" height="60"/></a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/>
+</a>
+</p>
+<br/>
 
-[![React Awesome Captcha](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=react-awesome-captcha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ShejanMahamud/react-awesome-captcha)
+## ⌨️ Currently Learning
+<p align="center">
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="60" height="60"/> </a>
+<a> <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
+</p>
+
+<br/>
+
+## Open Source Project
+
+[![React Awesome Captcha](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=react-awesome-captcha&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9)](https://github.com/ShejanMahamud/react-awesome-captcha)
 
 <p align="left">
   <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -98,21 +111,21 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ShejanMahamud">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShejanMahamud&theme=radical&border=7F3FBF&background=0D1117" alt="Shejan's GitHub streak"/>
-  </a>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=be185d&sideLabels=6d28d9&currStreakNum=be185d&ring=be185d&currStreakLabel=be185d&sideNums=6d28d9" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShejanMahamud">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShejanMahamud&theme=radical" alt="Shejan's GitHub Contribution"/>
-  </a>
-</p>
+![Shejan Mahamud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShejanMahamud&custom_title=Shejan%20Mahamud%27s%20Graph&bg_color=0D1117&color=6d28d9&line=6d28d9&point=be185d&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true)
 
 <a> 
-    <a href="https://github.com/ShejanMahamud"><img alt="Shejan Mahamud's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ShejanMahamud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ShejanMahamud"><img alt="Shejan Mahamud's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShejanMahamud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
+  <a href="https://github.com/ShejanMahamud"><img alt="Shejan Mahamud's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShejanMahamud&langs_count=8&layout=compact&theme=react&border_color=6d28d9&bg_color=0D1117&title_color=be185d&icon_color=6d28d9&hide_border=true" width='100%'/></a>
   <br/>
 </a>
 
-![Shejan Mahamud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShejanMahamud&custom_title=Shejan%20Mahamud's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div align="center">
+<hr>
+<h3>Wanna Hear a Joke, Buddy? 😜</h3>
+<a href="https://github.com/ABSphreak/readme-jokes">
+<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
+</a>
+</div>
