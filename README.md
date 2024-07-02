@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/N3CZJtg/Meet-The-Developer.jpg" alt="Shejan Mahamud" />
+  <img src="./assets/git-cover.jpg" alt="Shejan Mahamud" />
 </h1>
 
 <a href="https://komarev.com/ghpvc/?username=ShejanMahamud">
   <img align="right" src="https://komarev.com/ghpvc/?username=ShejanMahamud&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
+<br/>
 <!-- Intro  -->
 <h3 align="center">
         <samp align='center'>&gt; Hey There!, I am
@@ -14,8 +14,12 @@
 </h3>
 </br>
 <!-- About me -->
-<p align='center'>
-Hello! I’m Shejan Mahamud, a dedicated MERN Stack Web Developer with a strong focus on React.js for front-end development. I specialize in building modern web solutions using MongoDB, Express.js, React.js, and Node.js. With a commitment to continuous learning, I strive to enhance my skills and stay updated with the latest trends in web development.
+<p align="center"> 
+  <samp>
+    <a>「 Front-End Developer | React.JS | NEXT.JS | MERN Stack 」</a>
+<!--       https://g.co/kgs/Dnh2mD -->
+    <br>
+  </samp>
 </p>
 
 
