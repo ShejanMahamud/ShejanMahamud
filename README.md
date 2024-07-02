@@ -107,6 +107,7 @@
 ## Open Source Project
 
 [![React Awesome Captcha](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=react-awesome-captcha&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9)](https://github.com/ShejanMahamud/react-awesome-captcha)
+[![NightFallGlow](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=NightFallGlow&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9)](https://github.com/ShejanMahamud/NightFallGlow)
 
 <p align="center">
   <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -115,11 +116,21 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=be185d&sideLabels=6d28d9&currStreakNum=be185d&ring=be185d&currStreakLabel=be185d&sideNums=6d28d9" />
+<p align="center" >
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=be185d&sideLabels=6d28d9&currStreakNum=be185d&ring=be185d&currStreakLabel=be185d&sideNums=6d28d9" />
 </p>
 
 ![Shejan Mahamud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShejanMahamud&custom_title=Shejan%20Mahamud%27s%20Graph&bg_color=0D1117&color=6d28d9&line=6d28d9&point=be185d&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true)
+
+<br/>
+
+## :book: Recent Blogs
+- [Deploy an Express App on Vercel with MongoDB](https://shejanmahamud.medium.com/how-to-deploy-an-express-app-on-vercel-with-mongodb-e64ba9a83f4f)
+- [Integrating SSLCOMMERZ Payment Gateway in Node.js](https://shejanmahamud.medium.com/integrating-sslcommerz-payment-gateway-in-node-js-1e0e7d1e2c70)
+- [Securing React Applications with react-awesome-captcha](https://shejanmahamud.medium.com/securing-your-react-applications-with-react-awesome-captcha-a-complete-guide-e2f1a8e5c002)
+
+
+<br/>
 
 <div align="center">
 <hr>
