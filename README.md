@@ -93,6 +93,7 @@
 <a> <img src="https://github.com/devicons/devicon/raw/master/icons/vercel/vercel-original.svg" alt="vercel" width="60" height="60"/></a>
 <a> <img src="https://github.com/devicons/devicon/raw/master/icons/netlify/netlify-original.svg" alt="netlify" width="60" height="60"/></a>
 <a> <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/>
+  
 </a>
 </p>
 
@@ -100,6 +101,7 @@
 <p align="center">
 <a> <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="60" height="60"/> </a>
 <a> <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
+<a> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="60" height="60"/>
 </p>
 
 <br/>
