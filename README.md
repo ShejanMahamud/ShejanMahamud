@@ -24,7 +24,7 @@
 </h3>
 
 <p align="center">
-  🚀 Specializing in building scalable APIs, microservices, and SaaS platforms using <strong>Node.js, NestJS, TypeScript, PostgreSQL and MongoDB</strong>.
+  🚀 Passionate about building scalable systems, secure APIs, and modern backend architecture</strong>.
 </p>
 
 ---
