@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://shejanmahamud.netlify.app" target="_blank">
+  <a href="https://shejan.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/md-shejanmahamud" target="_blank">
@@ -20,11 +20,11 @@
 ---
 
 <h3 align="center">
-  <samp>&gt; Hello, I’m <b>Shejan Mahamud</b> — a Backend-Focused Web Developer</samp>
+  <samp>&gt; Hello, I’m <b>Shejan Mahamud</b> — Backend Developer</samp>
 </h3>
 
 <p align="center">
-  🚀 Specializing in building scalable APIs, microservices, and SaaS platforms using <strong>Node.js, NestJS, TypeScript, PostgreSQL, and MongoDB</strong>.
+  🚀 Specializing in building scalable APIs, microservices, and SaaS platforms using <strong>Node.js, NestJS, TypeScript, PostgreSQL and MongoDB</strong>.
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ## 👨‍💻 About Me
 
 - 🧠 Deeply focused on backend engineering, API architecture & developer experience  
-- 🔍 Learning advanced concepts in NestJS, Prisma ORM, and software architecture  
-- 🛠️ Working on real-world SaaS platforms like <strong>Prompt Vault</strong> and <strong>DevERP</strong>  
+- 🔍 Learning advanced concepts in NestJS, Prisma ORM, PostgreSQL and software architecture  
+- 🛠️ Working on some sass projects
 - 💡 Passionate about automation, secure systems, and efficient backend patterns  
 - ✍️ Sharing knowledge through blogs, open source, and dev tools  
 
@@ -54,19 +54,32 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-D2042D?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🔐 Auth & Dev Tools
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🎨 Frontend
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ---
 
 ## 📌 Featured Projects
 
-[![Prompt Vault](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=prompt-vault&theme=react&border_color=6d28d9)](https://github.com/ShejanMahamud/prompt-vault)
-[![DevERP](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=dev-erp&theme=react&border_color=6d28d9)](https://github.com/ShejanMahamud/dev-erp)
-[![React Awesome Captcha](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=react-awesome-captcha&theme=react&border_color=6d28d9)](https://github.com/ShejanMahamud/react-awesome-captcha)
+## Open Source Project
+
+[![Recaptz](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=recaptz&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9)](https://github.com/ShejanMahamud/react-awesome-captcha)
+
+<p align="center">
+  <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<br/>
 
 ---
 
@@ -74,8 +87,7 @@
 
 - NestJS Deep Dive (DI, Guards, Middleware, CQRS)
 - PostgreSQL + Prisma optimization
-- Microservice architecture + messaging
-- Golang + backend testing
+- Microservice architecture + API Design
 
 ---
 
