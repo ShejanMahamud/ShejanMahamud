@@ -130,7 +130,7 @@
 
 ## 💬 Let’s Connect
 
-📩 Email: **shejanmahamud@gmail.com**  
+📩 Email: **dev.shejanmahamud@gmail.com**  
 🤝 DM me on [**LinkedIn**](https://linkedin.com/in/md-shejanmahamud)  
 
 ---
