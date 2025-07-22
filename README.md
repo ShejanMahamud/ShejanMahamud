@@ -10,21 +10,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shejanmahamud.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
 </p>
 
 ---
 
 <h3 align="center">
-  <samp>&gt; Hello, I’m <b>Shejan Mahamud</b> — Backend Developer</samp>
+  <samp>&gt; Hello, I’m <b>Shejan Mahamud</b> — Full Stack Developer</samp>
 </h3>
 
 <p align="center">
-  🚀 Passionate about building scalable systems, secure APIs, and modern backend architecture</strong>.
+  🚀 Passionate about building scalable systems, secure APIs, and modern backend & frontend architecture</strong>.
 </p>
 
 ---
