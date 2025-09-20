@@ -15,6 +15,12 @@
     <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
+    <a href="https://www.hackerrank.com/mdshejanmahamud1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/shejan_mahamud" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -42,6 +48,7 @@
 ## 💼 Tech Stack
 
 ### 🧩 Languages
+![C](https://img.shields.io/badge/-C-3178C6?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-3178C6?style=for-the-badge&logo=go&logoColor=white)
