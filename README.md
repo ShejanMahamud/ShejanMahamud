@@ -81,7 +81,14 @@
 
 ## Open Source Project
 
-[![Recaptz](https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=recaptz&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9)](https://github.com/ShejanMahamud/recaptz)
+<p align="center">
+  <a href="https://github.com/ShejanMahamud/recaptz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=recaptz&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9" />
+  </a>
+  <a href="https://github.com/ShejanMahamud/bkash-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShejanMahamud&repo=bkash-js&border_color=6d28d9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6d28d9" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ShejanMahamud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
