@@ -14,10 +14,6 @@
   </a>
     <a href="https://twitter.com/_ShejanMahamud_" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
-  </a>
-    <a href="https://www.hackerrank.com/mdshejanmahamud1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
   <a href="https://codeforces.com/profile/shejan_mahamud" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
