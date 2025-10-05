@@ -66,7 +66,7 @@ I love figuring out how things work under the hood and making complicated system
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ## Open Source Project
 
@@ -88,58 +88,56 @@ I love figuring out how things work under the hood and making complicated system
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- C
+- C (Focus on problem solving)
 - Server Scaling
 - System Design
 
 ---
 
-## ✍️ Recent Blogs
+## Recent Blogs
 
-- 🔗 [Deploy Express App on Vercel + MongoDB](https://shejanmahamud.medium.com/how-to-deploy-an-express-app-on-vercel-with-mongodb-e64ba9a83f4f)  
-- 💳 [SSLCOMMERZ Payment Gateway in Node.js](https://shejanmahamud.medium.com/integrating-sslcommerz-payment-gateway-in-node-js-1e0e7d1e2c70)  
-- 🔐 [Secure React with Captcha](https://shejanmahamud.medium.com/securing-your-react-applications-with-react-awesome-captcha-a-complete-guide-e2f1a8e5c002)  
+- [Deploy Express App on Vercel + MongoDB](https://shejanmahamud.medium.com/how-to-deploy-an-express-app-on-vercel-with-mongodb-e64ba9a83f4f)  
+- [SSLCOMMERZ Payment Gateway in Node.js](https://shejanmahamud.medium.com/integrating-sslcommerz-payment-gateway-in-node-js-1e0e7d1e2c70)  
+- [Secure React with Captcha](https://shejanmahamud.medium.com/securing-your-react-applications-with-react-awesome-captcha-a-complete-guide-e2f1a8e5c002)  
 
 ---
 
-## 📈 GitHub Stats
-
-### 🧠 Contribution & Commit Streak
+### Contribution & Commit Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShejanMahamud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=be185d&sideLabels=6d28d9&currStreakNum=be185d&ring=be185d&currStreakLabel=be185d&sideNums=6d28d9" />
 </p>
 
-### 🧾 Languages Used
+### Languages Used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShejanMahamud&layout=compact&theme=react&bg_color=0D1117&border_color=6d28d9&title_color=be185d&text_color=ffffff" />
 </p>
 
-### 🛡️ GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShejanMahamud&show_icons=true&theme=react&bg_color=0D1117&border_color=6d28d9&title_color=be185d&icon_color=6d28d9&text_color=ffffff" />
 </p>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShejanMahamud&theme=onedark&row=1&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" />
 </p>
 
 ---
 
-### 📊 Contribution Graph
+### Contribution Graph
 ![Shejan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShejanMahamud&bg_color=0D1117&color=6d28d9&line=6d28d9&point=be185d&area=true&hide_border=true&custom_title=Shejan%20Mahamud's%20Activity%20Graph)
 
 ---
 
-## 💬 Let’s Connect
+## Let’s Connect
 
-📩 Email: **dev.shejanmahamud@gmail.com**  
-🤝 DM me on [**LinkedIn**](https://linkedin.com/in/md-shejanmahamud)  
+Email: **dev.shejanmahamud@gmail.com**  
+DM me on [**LinkedIn**](https://linkedin.com/in/md-shejanmahamud)  
 
 ---
 
 <p align="center">
-  <samp><b>Crafting robust backends. One service at a time. ⚙️</b></samp>
+  <samp><b>Crafting robust backends. One service at a time. </b></samp>
 </p>
